@@ -1,0 +1,2 @@
+# Corona-Virus-Visualization
+Corona Virus has affected the world and there are a number of cases recorded as confirmed, deaths and recovered around the globe. I found a dataset which had the records of January and February 2020 and decided to visualise it with the skills achieved. Python was used with the "Plotly" library specifically. A reference was taken from a medium article for the visualisation work. 
